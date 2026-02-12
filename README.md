@@ -1,2 +1,2 @@
-# hurricane_damage
-Code and data for Vessey et al., 2025, Combining hazard, exposure and vulnerability data to predict historical North Atlantic hurricane damage, Natural Hazards and Earth System Sciences.
+# hurricane_loss
+Code and data for Vessey et al., 2026, Combining hazard, exposure and vulnerability data to predict historical United States hurricane losses, Natural Hazards and Earth System Sciences.
