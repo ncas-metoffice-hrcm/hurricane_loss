@@ -2,7 +2,7 @@
 
 Analysis code and data for:
 
-Vessey, A. F., Baker, A. J., Marcellin-Honore, V., and Michelin, J. Combining hazard, exposure and vulnerability data to predict historical United States hurricane losses. *Natural Hazards and Earth System Sciences* . [https://doi.org/10.5194/egusphere-2025-5161](https://doi.org/10.5194/egusphere-2025-5161)
+Vessey, A. F., Baker, A. J., Marcellin-Honore, V., and Michelin, J. Combining hazard, exposure and vulnerability data to predict historical United States hurricane losses. In press, *Natural Hazards and Earth System Sciences* **??**, –. [https://doi.org/10.5194/egusphere-2025-5161](https://doi.org/10.5194/egusphere-2025-5161)
   
 **Scripts**  
 - *[Compare_Damage_Prediction_Vmax_Cp_Optimal_Model.R](/scripts/Compare_Damage_Prediction_Vmax_Cp_Optimal_Model.R)* — R code to compare the optimal model configurations (from 7) against loss prediction from using v<sub>max</sub> and c<sub>p</sub>.
