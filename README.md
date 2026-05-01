@@ -26,4 +26,4 @@ Vessey, A. F., Baker, A. J., Marcellin-Honore, V., and Michelin, J. Combining ha
   
 *US_hurricane_landfall_data_Vessey_et_al_2026_NHESS.csv*
   
-We calculated risk variables using hurricane footprints along the 12hr post-landfall track ("12hr") and along the full track ("fullhr"), and using R34, R50 and R64 radii ("R34", "R50" and "R64"). Therefore, for example, the total LitPOP impacted per hurricane is given in six columns (track x2 and size x3).
+We calculated risk variables using hurricane footprints along the 12hr post-landfall track ("_12hr") and along the full track ("_Fullhr"), and using R34, R50 and R64 radii ("R34", "R50" and "R64"). Therefore, for example, the total LitPOP impacted per hurricane is given in six columns (track x2 and size x3).
