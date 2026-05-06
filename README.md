@@ -1,7 +1,7 @@
 # hurricane_loss
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20050811.svg)](https://doi.org/10.5281/zenodo.20050827)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20050811.svg)](https://doi.org/10.5281/zenodo.20050811)
 
 Analysis [R](https://www.r-project.org) code and data for:
 
