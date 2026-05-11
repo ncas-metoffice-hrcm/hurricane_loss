@@ -4,7 +4,7 @@
 
 Analysis [R](https://www.r-project.org) code and data for:
 
-Vessey, A. F., Baker, A. J., Marcellin-Honore, V., and Michelin, J. Combining hazard, exposure and vulnerability data to predict historical United States hurricane losses. *Natural Hazards and Earth System Sciences* **26**, 2133–2150 (2026). [https://doi.org/10.5194/egusphere-2025-5161](https://nhess.copernicus.org/articles/26/2133/2026/)
+Vessey, A. F., Baker, A. J., Marcellin-Honore, V., and Michelin, J. Combining hazard, exposure and vulnerability data to predict historical United States hurricane losses. *Natural Hazards and Earth System Sciences* **26**, 2133–2150 (2026). [https://doi.org/10.5194/nhess-26-2133-2026](https://doi.org/10.5194/nhess-26-2133-2026)
   
 **Scripts**  
 - *[Compare_Damage_Prediction_Vmax_Cp_Optimal_Model.R](/scripts/Compare_Damage_Prediction_Vmax_Cp_Optimal_Model.R)* — R code to compare the optimal model configurations (from 7) against loss prediction from using v<sub>max</sub> and c<sub>p</sub>.
